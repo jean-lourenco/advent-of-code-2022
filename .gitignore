@@ -11,3 +11,6 @@ Cargo.lock
 
 bin/
 obj/
+
+.vs/
+.vscode/
